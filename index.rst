@@ -1,4 +1,3 @@
-# HelpHouse
 *O Help House é uma plataforma de serviços que conecta clientes cada vez mais exigentes e tecnológicos a profissionais qualificados e honestos. Através da plataforma, transformamos o processo de contratação de prestadores de serviços em algo totalmente digital - do pedido de orçamentos até o pagamento depois da realização do serviço. Temos mais de 50 tipos de serviços disponíveis no site e no aplicativo.
 
 E, além da diversidade de serviços, oferecemos, antes de tudo, segurança e tranquilidade para você! Temos um rigoroso processo de verificação de profissionais para garantir que só os melhores estarão no Help House. Além disso, a nossa equipe está 24h disponível para ajudar os nossos clientes com dúvidas e problemas. Sem falar da garantia de serviço, que te assegura em casos de problemas. Para melhorar ainda mais, você pode pagar pelos serviços em até 6x sem juros no cartão de crédito.*
